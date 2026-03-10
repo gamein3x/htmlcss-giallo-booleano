@@ -28,4 +28,10 @@
     .quick-notes ul li {
         flex-basis: calc(100%/3);
     }
+
+    .btn {
+        flex-grow: 1;
+    }
+
+    
 }
