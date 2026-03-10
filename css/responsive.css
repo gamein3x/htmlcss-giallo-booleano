@@ -15,4 +15,9 @@
     .recipe-name::after {
         content: "(Dolce tradizionale)";
     }
+
+    .recipe-name {
+        font-size: xx-large;
+    }
+    
 }
