@@ -11,4 +11,8 @@
     main {
         padding: 40px;
     }
+
+    .recipe-name::after {
+        content: "(Dolce tradizionale)";
+    }
 }
