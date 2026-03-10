@@ -19,5 +19,13 @@
     .recipe-name {
         font-size: xx-large;
     }
-    
+
+    .quick-notes ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes ul li {
+        flex-basis: calc(100%/3);
+    }
 }
