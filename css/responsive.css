@@ -36,4 +36,9 @@
     .ads {
         display: block;
     }
+
+    .clearfix img {
+        float: left;
+        margin-right: 15px;
+    }
 }
