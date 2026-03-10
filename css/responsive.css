@@ -59,4 +59,17 @@
     .recipe-video {
         flex-grow: 1;
     }
+
+    .social-networks .label {
+        display: inline;
+    }
+
+    footer {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    footer address {
+        text-align: left;;
+    }
 }
